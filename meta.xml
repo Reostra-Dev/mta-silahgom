@@ -1,0 +1,5 @@
+<meta>
+    <info type="Silah-Gömme - EnesEP" version="1.0.0"></info>
+     <script src="c.lua"  type="client" cache="false" />
+     <script src="s.lua" />
+</meta>
