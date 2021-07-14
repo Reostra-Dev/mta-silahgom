@@ -1,5 +1,5 @@
 # mta-silahgom
-MTA için yazılmış bir silah gömme scripti şuanda luaclı fakat özelden ulaşılır ise lua hali atılır. 
+MTA için yazılmış bir silah gömme scripti şuanda aktif olarak Grand Roleplay'de kullanılmakta. 
 
 SQL kayıtlıdır, SQL dosyası yanında değil fakat SQL'den anlayan biri kolayca yapabilir.
 
