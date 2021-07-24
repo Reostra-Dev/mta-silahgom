@@ -5,7 +5,6 @@ SQL kayıtlıdır, SQL dosyası yanında değil fakat SQL'den anlayan biri kolay
 
 Scripti yazan Lauren'dir.
 
-Discord: 'Reostra#0703
+Discord: Reostra#0703
 
 
-**discord.gg/lsrp**
